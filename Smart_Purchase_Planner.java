@@ -17,7 +17,7 @@ public class Smart_Purchase_Planner {
         
         final double FINANCE_RATE = 0.30;   
         final int NUM_MONTHS = 12;          
-        
+
         
         System.out.print("Enter the item to be purchased: ");
         String item = scnr.nextLine();
