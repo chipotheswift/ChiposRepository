@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lab4_part2 {
+public class Investment_Scheme {
     public static void main(String[] args) {
 
         Scanner scnr = new Scanner(System.in);
