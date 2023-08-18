@@ -20,6 +20,7 @@ public class Investment_Scheme {
 
         final int NUM_CLIENT = 5; 
 
+        
         String[] clientNames = new String[NUM_CLIENT];
         int[] amountsInvested = new int[NUM_CLIENT];
         int[] interestRates = new int[NUM_CLIENT];
