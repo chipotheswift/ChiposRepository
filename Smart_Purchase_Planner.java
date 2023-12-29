@@ -11,13 +11,13 @@ total payment, and financing amount are given the rate of 0.3 and a period of 12
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Proj1_Part1 {
+public class Smart_Purchase_Planner {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         
         final double FINANCE_RATE = 0.30;   
         final int NUM_MONTHS = 12;          
-        
+
         
         System.out.print("Enter the item to be purchased: ");
         String item = scnr.nextLine();

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lab4_part2 {
+public class Investment_Scheme {
     public static void main(String[] args) {
 
         Scanner scnr = new Scanner(System.in);
@@ -20,6 +20,7 @@ public class Lab4_part2 {
 
         final int NUM_CLIENT = 5; 
 
+        
         String[] clientNames = new String[NUM_CLIENT];
         int[] amountsInvested = new int[NUM_CLIENT];
         int[] interestRates = new int[NUM_CLIENT];

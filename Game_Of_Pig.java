@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Proj2_Part2 {
+public class Game_Of_Pig {
     private static final int WINNING_SCORE = 20;
     private static final int PLAYER1_ROLLS_UNDER_10 = 1;
     private static final int PLAYER1_ROLLS_10_AND_ABOVE = 2;
@@ -115,6 +115,7 @@ public class Proj2_Part2 {
             }
         }
 
+        
         System.out.println();
         System.out.println("Game Over!");
 
